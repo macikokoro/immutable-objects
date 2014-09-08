@@ -1,0 +1,26 @@
+{
+  "name": "complex-objects",
+  "version": "0.0.1",
+  "description": "counter object with responsibilites",
+  "main": "conter-object.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/macikokoro/immutable-objects.git"
+  },
+  "author": "JQ",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/macikokoro/immutable-objects/issues"
+  },
+  "homepage": "https://github.com/macikokoro/immutable-objects",
+  "devDependencies": {
+    "chai": "^1.9.1",
+    "mocha": "^1.21.4"
+  }
+}
